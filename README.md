@@ -34,7 +34,7 @@ Below are sample outputs from the trained YOLOv5 model detecting drones in test 
 
 ### To use it without downloading the repo go to:
   ```bash
-  ljiuuj
+  [ljiuuj](https://monkeypox-disease-detection-with-resnet152-kxcrrtwp5ch7oersgif.streamlit.app/)
   ```
 
 ### How to Run
